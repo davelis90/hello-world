@@ -1,2 +1,2 @@
 # hello-world
-Getting acquainted with GitHub
+Yo! Sup? Alex in the house.
